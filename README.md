@@ -64,4 +64,4 @@ Se maneja mediante variables de entorno utilizando un archivo `.env`, excluido d
 
 ## Autor
 
-Aiko Flores
+Aiko Marín
